@@ -3,6 +3,8 @@
 ## 🧠 Overview  
 This analysis was developed as part of the **Data DNA September 2025 Challenge**, where I took on the role of a **Credit Risk Analyst** at **Nova Bank**, a financial institution offering loans across the **USA, UK, and Canada**. The goal: help Nova Bank balance **fair lending** with **risk protection** by identifying **who defaults**, **why**, and **how to improve lending decisions**.
 
+### Interactive Dashboard link: https://shorturl.at/TeHDk
+
 ---
 
 ## 🏠 Home Page – Portfolio Snapshot
@@ -84,7 +86,7 @@ For feedback or questions, reach out at:
 
 ![Insight Table Page](https://github.com/Haruharun/Credit-Risk-Analysis-/blob/4360b180f9bddc165021b30713410ee0bdbf38a6/Screenshot%202025-09-29%20145936.png)
 
-![Glossary ]()
+![Glossary ](https://github.com/Haruharun/Credit-Risk-Analysis-/blob/8e5f8e787ef13a3bacd0fa8d29222de610a498ee/Screenshot%202025-09-29%20145952.png)
 
 
 
