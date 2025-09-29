@@ -19,7 +19,7 @@ This analysis was developed as part of the Data DNA September 2025 Challenge, wh
 To provide a high-level overview of Nova Bank’s loan portfolio performance, including total disbursed amount, defaulted amount, borrower base, and overall default rate.
 
 
-*Key Insights*
+**Key Insights**
 
 • 	Total Disbursed: $277M across 28,638 borrowers
 
@@ -28,7 +28,7 @@ To provide a high-level overview of Nova Bank’s loan portfolio performance, in
 • 	Borrower Outcomes: 6,283 defaults vs. 22,455 successful repayments
 
 
-*Actionable Recommendations*
+**Actionable Recommendations**
 
 • 	Prioritize segmentation and risk driver analysis to reduce the 22% default rate.
 
@@ -38,11 +38,11 @@ To provide a high-level overview of Nova Bank’s loan portfolio performance, in
 
 ## Borrowers Segmentation Page
 
-*Purpose*
+**Purpose**
 To analyze borrower characteristics (employment type, loan purpose, geography) and identify segments with elevated default risk.
 
 
- *Key Insights*
+ **Key Insights**
 
 • 	Employment Type: Unemployed borrowers show highest default exposure (28%)
 
@@ -53,7 +53,7 @@ To analyze borrower characteristics (employment type, loan purpose, geography) a
 • 	Geography: USA accounts for the largest share of defaults ($33M)
 
 
-*Actionable Recommendations*
+**Actionable Recommendations**
 
 • 	Tighten underwriting criteria for high-risk loan intents like debt consolidation and medical expenses.
 
@@ -64,10 +64,10 @@ To analyze borrower characteristics (employment type, loan purpose, geography) a
 
 ## Risk Drivers Page
 
-*Purpose*
+**Purpose**
 To uncover the key financial behaviors and conditions driving default risk, such as high DTI, utilization, prior defaults, and long-term loans.
 
-*Key Insights*
+**Key Insights**
 
 • 	DTI Impact: Default rate spikes to 41% in the >2.5x DTI band
 
@@ -76,7 +76,7 @@ To uncover the key financial behaviors and conditions driving default risk, such
 • 	Prior Defaults: Strong predictor of future risk across combinations
 
 
-*Actionable Recommendations*
+**Actionable Recommendations**
 
 • 	Flag borrowers with high DTI and utilization for enhanced monitoring or pre-emptive restructuring.
 
@@ -87,10 +87,10 @@ To uncover the key financial behaviors and conditions driving default risk, such
 
 ## Insight Table Page
 
-*Purpose*
+**Purpose**
 To provide granular, case-level analysis of borrower profiles, risk scores, and recommended actions for relationship management.
 
-*Key Insights*
+**Key Insights**
 
 • 	Risk segmentation ranges from “A – Very Low Risk” to “E – Very High Risk”
 
@@ -99,7 +99,7 @@ To provide granular, case-level analysis of borrower profiles, risk scores, and 
 • 	Common risk drivers include low income, high loan amounts, and high credit utilization
 
 
-*Actionable Recommendations*
+**Actionable Recommendations**
 
 • 	Automate borrower review workflows based on risk segment and score thresholds.
 
