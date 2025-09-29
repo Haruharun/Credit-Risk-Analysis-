@@ -35,9 +35,12 @@ To provide a high-level overview of Nova Bank’s loan portfolio performance, in
 #Purpose
 To analyze borrower characteristics (employment type, loan purpose, geography) and identify segments with elevated default risk.
 
-## Key Insights
+# Key Insights
+
 • 	Employment Type: Unemployed borrowers show highest default exposure (28%)
+
 • 	Loan Purpose: Debt consolidation loans carry the highest risk (28%)
+
 • 	Geography: USA accounts for the largest share of defaults ($33M)
 
 ##Actionable Recommendations
