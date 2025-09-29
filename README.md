@@ -22,7 +22,9 @@ To provide a high-level overview of Nova Bank’s loan portfolio performance, in
 *Key Insights*
 
 • 	Total Disbursed: $277M across 28,638 borrowers
+
 • 	Defaults: $68M, with a 22% overall default rate
+
 • 	Borrower Outcomes: 6,283 defaults vs. 22,455 successful repayments
 
 ##Actionable Recommendations
