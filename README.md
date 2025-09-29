@@ -82,7 +82,7 @@ For feedback or questions, reach out at:
 
 ![Risk Drivers Page](https://github.com/Haruharun/Credit-Risk-Analysis-/blob/e2927a7334aa458bbc3bb5ce20f471dcf375e4e8/Screenshot%202025-09-29%20145846.png)
 
-![Insight Table Page]()
+![Insight Table Page](https://github.com/Haruharun/Credit-Risk-Analysis-/blob/4360b180f9bddc165021b30713410ee0bdbf38a6/Screenshot%202025-09-29%20145936.png)
 
 ![Glossary ]()
 
