@@ -19,7 +19,7 @@ This analysis was developed as part of the Data DNA September 2025 Challenge, wh
 To provide a high-level overview of Nova Bank’s loan portfolio performance, including total disbursed amount, defaulted amount, borrower base, and overall default rate.
 
 
-# Key Insights
+*Key Insights*
 
 • 	Total Disbursed: $277M across 28,638 borrowers
 • 	Defaults: $68M, with a 22% overall default rate
