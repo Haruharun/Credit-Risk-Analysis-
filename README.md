@@ -78,9 +78,9 @@ For feedback or questions, reach out at:
 
 ![Home Page](https://github.com/Haruharun/Credit-Risk-Analysis-/blob/16b5cc36cf30203a5d0fab15b99c06487f414cc6/Screenshot%202025-09-29%20124038.png)
 
-![Borrowers Segmentation Page](https://github.com/Haruharun/Credit-Risk-Analysis-/blob/e2927a7334aa458bbc3bb5ce20f471dcf375e4e8/Screenshot%202025-09-29%20145846.png)
+![Borrowers Segmentation Page](https://github.com/Haruharun/Credit-Risk-Analysis-/blob/a72841fcd97b4b7228ac582c6b86379e58ad497e/Screenshot%202025-09-29%20145910.png)
 
-![Risk Drivers Page]()
+![Risk Drivers Page](https://github.com/Haruharun/Credit-Risk-Analysis-/blob/e2927a7334aa458bbc3bb5ce20f471dcf375e4e8/Screenshot%202025-09-29%20145846.png)
 
 ![Insight Table Page]()
 
