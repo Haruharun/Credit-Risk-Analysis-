@@ -75,7 +75,8 @@ For feedback or questions, reach out at:
 **waweruharun72@gmail.com**
 
 
-![Home Page]()
+
+![Home Page](https://github.com/Haruharun/Credit-Risk-Analysis-/blob/16b5cc36cf30203a5d0fab15b99c06487f414cc6/Screenshot%202025-09-29%20124038.png)
 
 ![Borrowers Segmentation Page]()
 
