@@ -69,3 +69,22 @@ Provide granular, case-level analysis of borrower profiles, risk scores, and rec
 - Automate borrower review workflows based on risk segment and score thresholds  
 - Maintain strong engagement with stable borrowers to reinforce repayment behavior  
 - Use this table to support credit committee decisions and frontline relationship managers
+
+## Contact  
+For feedback or questions, reach out at:  
+**waweruharun72@gmail.com**
+
+
+![Home Page]()
+
+![Borrowers Segmentation Page]()
+
+![Risk Drivers Page]()
+
+![Insight Table Page]()
+
+![Glossary ]()
+
+
+
+  
