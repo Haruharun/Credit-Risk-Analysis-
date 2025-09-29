@@ -14,7 +14,8 @@ This analysis was developed as part of the Data DNA September 2025 Challenge, wh
 
 
 ##  Home Page – Portfolio Snapshot
-#Purpose
+
+**Purpose**
 To provide a high-level overview of Nova Bank’s loan portfolio performance, including total disbursed amount, defaulted amount, borrower base, and overall default rate.
 
 
